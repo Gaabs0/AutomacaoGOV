@@ -1,7 +1,5 @@
 # Projeto Final de QA - Carlos Gabriel Azevedo
 
-# AutomacaoGOV
-
 Projeto de automação de testes desenvolvido com Cypress como trabalho final da disciplina.
 
 ## 🚀 Objetivo
